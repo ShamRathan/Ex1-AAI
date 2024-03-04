@@ -87,10 +87,11 @@ ax.margins (0.20)
 plt.axis("off")
 plt.show()
 ```
-''' Type your Code here '''
 ## Output:
 ![image](https://github.com/ShamRathan/Ex1-AAI/assets/93587823/1fccbc8a-8cab-44eb-80fe-335663ca676f)
-![image](https://github.com/ShamRathan/Ex1-AAI/assets/93587823/916c760f-e86f-4e88-b371-8894124bf851)
+
+![image](https://github.com/ShamRathan/Ex1-AAI/assets/93587823/36208768-a309-490a-8d1f-8a6f53347f7d)
+
 
 ## Result:
    Thus a Bayesian Network is generated using Python
